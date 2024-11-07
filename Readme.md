@@ -8,6 +8,8 @@
 ## 🍁Introduction
 This lab is design to  installation and configuration of YARA in linux machine. also we will see how we can create rules for malware or threat detection with realworld examples.
 
+![](https://github.com/DNcrypter/YARA-Lab-Setup/blob/main/yara%20poster.png)
+
 ## 🔗Prerequisites
 - Basic understanding of Command-line.
 - Malware basics.
